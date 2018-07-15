@@ -17,3 +17,5 @@ Day 7:MNIST with CNN Final
 Day 8:CIFAR-10 CNN
 
 Day 9:OpenCV Image Sketch
+
+Day 10:Timeseries using RNN
