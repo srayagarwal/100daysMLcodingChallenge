@@ -13,3 +13,7 @@ Day 5:Credit scoring & MNIST with CNN Part-1
 Day 6:Basic SKLearn Revision
 
 Day 7:MNIST with CNN Final
+
+Day 8:CIFAR-10 CNN
+
+Day 9:OpenCV Image Sketch
