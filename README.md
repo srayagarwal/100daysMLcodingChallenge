@@ -19,3 +19,6 @@ Day 8:CIFAR-10 CNN
 Day 9:OpenCV Image Sketch
 
 Day 10:Timeseries using RNN
+
+Day 11:Deep Nets with TF Abstractions
+
