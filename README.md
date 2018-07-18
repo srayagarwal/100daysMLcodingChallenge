@@ -22,3 +22,5 @@ Day 10:Timeseries using RNN
 
 Day 11:Deep Nets with TF Abstractions
 
+Day 12:Deep Net with Keras
+
