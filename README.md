@@ -24,3 +24,5 @@ Day 11:Deep Nets with TF Abstractions
 
 Day 12:Deep Net with Keras
 
+Day 13:Simple Autoencoder without activation
+
