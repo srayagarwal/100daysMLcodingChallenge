@@ -27,3 +27,5 @@ Day 12:Deep Net with Keras
 Day 13:Simple Autoencoder without activation
 
 Day 14:Stacked Autoencoders
+
+Day 15:GANs
