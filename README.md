@@ -29,3 +29,7 @@ Day 13:Simple Autoencoder without activation
 Day 14:Stacked Autoencoders
 
 Day 15:GANs
+
+Day 16:Conv Edge
+
+Day 17:Conv Edge benchmark
