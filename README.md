@@ -35,3 +35,5 @@ Day 16:Conv Edge
 Day 17:Conv Edge benchmark
 
 Day 18:MNIST various method 1
+
+Day 19:MNIST various method 2
