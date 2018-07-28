@@ -37,3 +37,7 @@ Day 17:Conv Edge benchmark
 Day 18:MNIST various method 1
 
 Day 19:MNIST various method 2
+
+Day 20:NN Manual 1
+
+Day 21:NN Manual 2
