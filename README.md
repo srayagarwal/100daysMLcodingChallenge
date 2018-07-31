@@ -43,3 +43,5 @@ Day 20:NN Manual 1
 Day 21:NN Manual 2
 
 Day 22:Linear Regression - back to basics
+
+Day 23:Logistic Regression from Scratch 1
