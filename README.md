@@ -46,4 +46,6 @@ Day 22:Linear Regression - back to basics
 
 Day 23:Logistic Regression from Scratch 1
 
-Day 14:Prophet 
+Day 24:Prophet
+
+Day 25:ARIMA
