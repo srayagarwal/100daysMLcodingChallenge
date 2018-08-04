@@ -49,3 +49,8 @@ Day 23:Logistic Regression from Scratch 1
 Day 24:Prophet
 
 Day 25:ARIMA
+
+Day 26:Linear Regression 101
+
+Day 27:MV Linear Regression 101
+
