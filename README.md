@@ -54,3 +54,10 @@ Day 26:Linear Regression 101
 
 Day 27:MV Linear Regression 101
 
+Day 28:Gradient Descent LR
+
+Day 29:L1 LR
+
+Day 30:L2 LR
+
+
