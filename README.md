@@ -61,3 +61,6 @@ Day 29:L1 LR
 Day 30:L2 LR
 
 Day 31:Logistic Regression 101
+
+Day 32:Logistic Regression GD
+
