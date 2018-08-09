@@ -66,3 +66,5 @@ Day 32:Logistic Regression GD
 
 Day 33:Imputation Part 1
 
+Day 34:Logistic regression L2
+
