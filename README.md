@@ -69,3 +69,5 @@ Day 33:Imputation Part 1
 Day 34:Logistic regression L2
 
 Day 35:Logistic regression L1
+
+Day 37:Survival Analysis part 1
