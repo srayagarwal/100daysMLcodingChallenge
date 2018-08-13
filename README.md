@@ -73,3 +73,5 @@ Day 35:Logistic regression L1
 Day 37:Survival Analysis part 1
 
 Day 38:Survival Analysis part 2
+
+Day 39:LR Facial Expression Recognition
