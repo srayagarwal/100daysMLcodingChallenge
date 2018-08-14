@@ -75,3 +75,5 @@ Day 37:Survival Analysis part 1
 Day 38:Survival Analysis part 2
 
 Day 39:LR Facial Expression Recognition
+
+Day 40:Network Analysis Airport Data
