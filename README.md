@@ -79,3 +79,5 @@ Day 39:LR Facial Expression Recognition
 Day 40:Network Analysis Airport Data
 
 Day 41:KM Clustering
+
+Day 42:Bias Variance
