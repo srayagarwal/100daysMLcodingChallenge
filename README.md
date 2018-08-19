@@ -81,3 +81,5 @@ Day 40:Network Analysis Airport Data
 Day 41:KM Clustering
 
 Day 42:Bias Variance
+
+Day 43:Feed Forward
