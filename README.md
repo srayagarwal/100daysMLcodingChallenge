@@ -85,3 +85,5 @@ Day 42:Bias Variance
 Day 43:Feed Forward
 
 Day 44:Word Cloud 101
+
+Day 45:Back Prop
