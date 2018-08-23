@@ -89,3 +89,5 @@ Day 44:Word Cloud 101
 Day 45:Back Prop
 
 Day 46:Airline Time series by regression
+
+Day 47:Isotonic Regression
