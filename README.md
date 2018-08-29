@@ -90,4 +90,8 @@ Day 45:Back Prop
 
 Day 46:Airline Time series by regression
 
-Day 47:Isotonic Regression
+Day 47:Isotonic Regression : https://github.com/srayagarwal/100daysMLcodingChallenge/blob/master/isotonic%20regression.ipynb
+
+Day 48:silhouette_score : 100daysMLcodingChallenge/silhouette_score.ipynb
+
+Day 49:Copula
